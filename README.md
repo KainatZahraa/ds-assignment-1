@@ -1,4 +1,3 @@
-````markdown
 # Data Science – Assignment 1 (Fall 2025)
 
 ---
@@ -59,4 +58,3 @@ A comprehensive data preprocessing and exploratory data analysis (EDA) assignmen
    ```
 
 > Make sure `Employee.csv` and `employee_training_dataset.csv` are in the same directory as the notebook.
-````
