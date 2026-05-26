@@ -1,5 +1,5 @@
-```markdown
-# Data Science – Assignment 1 
+````markdown
+# Data Science – Assignment 1 (Fall 2025)
 
 ---
 
@@ -12,6 +12,8 @@ ds-assignment-1/
 ├── employee_training_dataset.csv    # Dataset 2
 └── README.md
 ```
+
+---
 
 ## 📋 Assignment Overview
 
@@ -35,7 +37,6 @@ A comprehensive data preprocessing and exploratory data analysis (EDA) assignmen
 - `numpy` – Numerical operations
 - `matplotlib` / `seaborn` – Visualization
 - `sklearn` – Encoding, scaling & power transformations (Box-Cox, Yeo-Johnson)
-- `sklearn` – Encoding & scaling
 
 ---
 
@@ -43,7 +44,7 @@ A comprehensive data preprocessing and exploratory data analysis (EDA) assignmen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ds-assignment-1.git
+   git clone https://github.com/KainatZahraa/ds-assignment-1.git
    cd ds-assignment-1
    ```
 
@@ -58,4 +59,4 @@ A comprehensive data preprocessing and exploratory data analysis (EDA) assignmen
    ```
 
 > Make sure `Employee.csv` and `employee_training_dataset.csv` are in the same directory as the notebook.
-```
+````
