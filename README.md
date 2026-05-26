@@ -18,15 +18,14 @@ ds-assignment-1/
 
 A comprehensive data preprocessing and exploratory data analysis (EDA) assignment using Python.
 
-| Question | Topic | Marks |
-|----------|-------|-------|
-| Q1 | Data Loading, Inspection & Cleaning | 20 |
-| Q2 | Handling Missing Values & Outliers | 15 |
-| Q3 | Descriptive Statistics & Distribution Analysis | 15 |
-| Q4 | GroupBy, Aggregation & Pivot Tables | 15 |
-| Q5 | Encoding & Feature Scaling | 15 |
-| Q6 | Dataset Merging & Comparative Analysis | 20 |
-| **Total** | | **100** |
+| Question | Topic |
+|----------|-------|
+| Q1 | Data Loading, Inspection & Cleaning |
+| Q2 | Handling Missing Values & Outliers | 
+| Q3 | Descriptive Statistics & Distribution Analysis |
+| Q4 | GroupBy, Aggregation & Pivot Tables | 
+| Q5 | Encoding & Feature Scaling |
+| Q6 | Dataset Merging & Comparative Analysis |
 
 ---
 
